@@ -1,0 +1,23 @@
+# Logs and results
+*.log
+*.out
+
+# Build artifacts
+bin/
+dist/
+
+# Editors
+.vscode/
+.idea/
+
+# Go
+cover.out
+
+# AoC helpers
+.env
+.cookie
+inputs/
+session.txt
+
+# System
+.DS_Store
